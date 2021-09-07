@@ -1,0 +1,11 @@
+First thing that comes to mind: Linking of companies together
+Global Supply Chain Management: the design, coordination, and improvement of the processes, systems, and relationships from original suppliers to end users that create and deliver all products and services worldwide
+
+Who: Cusotmers
+How get parts: Sourcing
+How create: Operations
+How improve: Quality
+How deliver: Logistics
+
+upstream is suppliers
+downstream is consumers

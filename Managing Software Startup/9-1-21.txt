@@ -1,0 +1,6 @@
+Milestones
+1. Working Prototype
+2. Inital Capital
+3. Field-testable version
+4. Paying customer
+5. Cash-flow breakeven

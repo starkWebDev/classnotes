@@ -1,0 +1,30 @@
+Design Exploration
+Usefulness Design
+Usability Design
+Design Evaluation
+Design Advocacy
+
+
+Designer Mindset: Given a problem, say thanks then figure out the actual problem
+
+First steps: map out the experience
+	whats our desired outcome?
+	how do we get them there?
+How long should you spend before beginning to build?
+
+Proof of use: improve password reset page
+proof of value: create apple watch version of app
+proof of concept: build some systme that helps make better health decisions
+
+process for creative thinking
+	the goal for creativity is to have some sort of value, not necessarily useful, new, good
+	reversal: how to make this worse? then opposite
+	use adjectives for one thing on something else
+	what if: think of main featuers of something. asl yourself what if it disappeared or was replaced
+	draw matrix comparing topics youre interested in with tech
+	develop only silly solutions
+
+Structured Ideation Process
+	brainstorm
+	categorize
+	rank order
